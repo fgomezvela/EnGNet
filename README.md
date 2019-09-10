@@ -21,12 +21,12 @@ Turn to console and set:
 
 # Parameters (config.properties):
 
-inputFile: The path to the input dataset (gene expression matrix)
-KendallThreshold: threshold for the Kendall classifier
-SpearmanThreshold: threshold for the Spearman classifier
-NMIThreshold: threshold for the NMI classifier
-addingThreshold: threshold to determine if the edge would be return into the network after the pruning step
-hubThr: threshold to determine if the node studie is a hub. Set this threshold to -1 to run the algorithm with standard selection.
+> inputFile: The path to the input dataset (gene expression matrix)
+> KendallThreshold: threshold for the Kendall classifier
+> SpearmanThreshold: threshold for the Spearman classifier
+> NMIThreshold: threshold for the NMI classifier
+> addingThreshold: threshold to determine if the edge would be return into the network after the pruning step
+> hubThr: threshold to determine if the node studie is a hub. Set this threshold to -1 to run the algorithm with standard selection.
 
 
 NOTE: You should have installed JAVA for running this tool.
