@@ -33,7 +33,7 @@ NOTE: You should have installed JAVA for running this tool.
 
 
 
-# AUTHOR:
+# COPYRIGHT:
 Francisco Gómez Vela <fgomez@upo.es>.
 
 Copyright © 2019 Universidad Pablo de Olavide, 
